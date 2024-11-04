@@ -7,6 +7,11 @@ I created this business intelligence dashboard to deliver a powerful analytics t
 
 ---
 
+**My Contribution**  
+I played a key role in developing this business intelligence dashboard by designing and implementing the entire application architecture. This included building the frontend with Dash and Plotly for interactive visualizations, developing the backend using Python and SQLite for efficient data management, and establishing a robust data pipeline for extracting, transforming, and loading data. I ensured the dashboard delivered meaningful insights through comprehensive metrics and intuitive design.
+
+---
+
 **Features and Key Functions**
 
 - **📈 Sales Performance Tracking**: Analyze historical sales and profitability trends.
