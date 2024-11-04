@@ -66,3 +66,11 @@ datasets/
 **Future Enhancements**
 
 - **Conversational Analytics**: Plan to integrate conversational analytics using `dash_core_components.Input` for an enriched user experience.
+
+**Snapshots**
+
+![dashboard_show](https://github.com/user-attachments/assets/13cbb4f2-a9e5-4d5a-9d4e-ae7b27bee54e)
+![DATA FLOW](https://github.com/user-attachments/assets/739f6ebd-173c-4f34-b94e-9d1c88c47dad)
+![KPI_indicator](https://github.com/user-attachments/assets/72d5a16f-c2a9-47cb-8c33-af920f911880)
+
+
